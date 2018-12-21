@@ -1,0 +1,18 @@
+<identifier>: Ký tự đầu bắt buộc là chữ, những ký tự sau có thể là chữ or số
+<type>: Một kiểu dữ liệu chính quy: String, int, boolean, etc.
+<value>: Có thể là một định danh của một biến (ketqua, check,...) hoặc một hằng (1, "hello", true)
+
+Class Declaration:
+`method <identifier = name requires ([<type> <identifier = name>...]) [return <type>]`
+
+Variable Declaration:
+`var <type> <identifier = name> [= <value>]`
+
+Method Invocation: (Lời gọi hàm)
+`<identifier = name>(ơ<value>...])`
+
+Print Statement:
+`print <value>`
+
+Return Statement:
+`return <value>`
