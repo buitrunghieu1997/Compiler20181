@@ -6,7 +6,10 @@
  */
 package ProgramLanguageProject.pro.block;
 
-import ProgramLanguageProject.pro.*;
+import ProgramLanguageProject.pro.Type.Type;
+import ProgramLanguageProject.pro.varl.Parameter;
+import ProgramLanguageProject.pro.varl.Value;
+import ProgramLanguageProject.pro.varl.Variable;
 
 import java.util.Arrays;
 
@@ -17,7 +20,7 @@ import java.util.Arrays;
  */
 public class Method extends Block {
   private String      name;
-  private String        type;
+  private String      type;
   private Parameter[] params;
   private Value       returnValue;
 

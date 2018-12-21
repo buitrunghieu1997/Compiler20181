@@ -4,9 +4,11 @@
  * Variable.java
  * Created at 18:09 ~ 27/11/2018 by Bùi Trung Hiếu
  */
-package ProgramLanguageProject.pro;
+package ProgramLanguageProject.pro.varl;
 
+import ProgramLanguageProject.pro.Type.Type;
 import ProgramLanguageProject.pro.block.Block;
+import ProgramLanguageProject.pro.varl.Value;
 
 /**
  * Class đại diện cho một biến

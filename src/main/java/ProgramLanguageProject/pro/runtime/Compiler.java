@@ -4,7 +4,7 @@
  * Compiler.java
  * Created at 13:57 ~ 21/12/2018 by Bùi Trung Hiếu
  */
-package ProgramLanguageProject.pro;
+package ProgramLanguageProject.pro.runtime;
 
 import ProgramLanguageProject.pro.block.Block;
 import ProgramLanguageProject.pro.block.Class;

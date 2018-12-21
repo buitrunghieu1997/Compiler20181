@@ -6,9 +6,9 @@
  */
 package ProgramLanguageProject.pro.block;
 
-import ProgramLanguageProject.pro.BuildInType;
-import ProgramLanguageProject.pro.Type;
-import ProgramLanguageProject.pro.Variable;
+import BuildInType;
+import ProgramLanguageProject.pro.Type.Type;
+import ProgramLanguageProject.pro.varl.Variable;
 
 /**
  * Class này chính là một khai báo biến mà chưa xác định được kiểu dữ liệu là nguyên thuỷ hay không

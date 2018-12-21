@@ -6,7 +6,7 @@
  */
 package ProgramLanguageProject.pro.block;
 
-import ProgramLanguageProject.pro.Variable;
+import ProgramLanguageProject.pro.varl.Variable;
 
 import java.util.ArrayList;
 import java.util.Collections;

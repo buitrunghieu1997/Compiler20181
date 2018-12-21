@@ -6,7 +6,7 @@
  */
 package ProgramLanguageProject.pro.block;
 
-import ProgramLanguageProject.pro.Type;
+import ProgramLanguageProject.pro.Type.Type;
 
 /**
  * Một class, extends từ block

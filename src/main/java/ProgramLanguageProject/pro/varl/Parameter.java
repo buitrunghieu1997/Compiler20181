@@ -4,7 +4,9 @@
  * Parameter.java
  * Created at 15:55 ~ 27/11/2018 by Bùi Trung Hiếu
  */
-package ProgramLanguageProject.pro;
+package ProgramLanguageProject.pro.varl;
+
+import ProgramLanguageProject.pro.Type.Type;
 
 /**
  * Đại diện cho một tham số (vd như tha số của hàm)
@@ -12,8 +14,8 @@ package ProgramLanguageProject.pro;
  * @author Bùi Trung Hiếu  Created: 15:55 ~ 27/11/2018
  */
 public class Parameter {
-    private Type type;
-    private String      name;
+    private Type   type;
+    private String name;
 
     public Parameter(Type type, String name) {
         this.type = type;

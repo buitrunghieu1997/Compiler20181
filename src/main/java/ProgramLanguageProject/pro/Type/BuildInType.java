@@ -4,7 +4,7 @@
  * BuildInType.java
  * Created at 15:20 ~ 27/11/2018 by Bùi Trung Hiếu
  */
-package ProgramLanguageProject.pro;
+package ProgramLanguageProject.pro.Type;
 
 /**
  * Các kiểu của dữ liệu

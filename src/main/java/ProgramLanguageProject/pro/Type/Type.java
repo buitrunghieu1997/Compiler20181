@@ -4,7 +4,7 @@
  * Type.java
  * Created at 11:23 ~ 21/12/2018 by Bùi Trung Hiếu
  */
-package ProgramLanguageProject.pro;
+package ProgramLanguageProject.pro.Type;
 
 /**
  * Description about this Class/Interface/Enum...

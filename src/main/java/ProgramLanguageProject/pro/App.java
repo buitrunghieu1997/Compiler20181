@@ -6,6 +6,8 @@
  */
 package ProgramLanguageProject.pro;
 
+import ProgramLanguageProject.pro.runtime.Compiler;
+
 /**
  * Description about this Class/Interface/Enum...
  *

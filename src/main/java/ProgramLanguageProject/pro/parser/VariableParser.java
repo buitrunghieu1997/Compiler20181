@@ -6,9 +6,7 @@
  */
 package ProgramLanguageProject.pro.parser;
 
-import ProgramLanguageProject.pro.BuildInType;
-import ProgramLanguageProject.pro.Type;
-import ProgramLanguageProject.pro.Variable;
+import BuildInType;
 import ProgramLanguageProject.pro.block.Block;
 import ProgramLanguageProject.pro.block.VariableBlock;
 import ProgramLanguageProject.pro.tokenizer.Token;
