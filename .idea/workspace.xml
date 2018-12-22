@@ -2,25 +2,86 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06028e6c-c0f2-4c01-919c-9a8f7c0461f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANTLR/ANTLR.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Compiler/Compiler.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lex/Lex.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lex/code.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lex/example/program.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lex/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lex/src/lexial/lexer.flex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yacc/Yacc.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/1/01fc16781f61ca544d3debff5421b663fc35c433" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/a/0ab3b2a81427659dac5fbcb627532185dc954e16" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/0/3001b5079b967cf144e3b5169020101853568176" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/35fbc95e80978dacdc44bcc5fd1beab119437737" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/7/57c67f78fa25464b434c1001e9b153d5e6d19fa0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/c/5c410a33c31dfed8131707699fd8d08916110204" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/3/839a919a66bda08a5c1daac16bdcef479cffde45" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/4/84b30793d32d31ddd933f3f0aa4707ab898e2112" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8ea55ef9176ec732470830aecab638ef4944a70f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/5/95c4e39b67d8ea90fb9b12cf8b13af5f6a6a42da" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/e/9ec2b40cbe2b952b2a148e3850e210b69aea2436" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/0/a0e8ec8abd4065972b6a5291375318e4ddf04000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/9/a95f06d3cab3584b1be75b5f420e9a39ede7e2d6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/f/af39c05132fecf60df5ad10678694acd73695d9f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/0/c0251aef73a37d31b1e600f504bd178564efa5d6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/d/cd4c3d36a0b4a9e3d26cc7b641ffc164a6981746" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/6/d6ba7c0f6babc51431326f87aa2925d1574709c8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/0/f0eb436ee0d43920ea05d731031923088a9461ac" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/8/f8216637670869231455600a1c470af107b6e959" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/8/f8f1dd55bd2a58e8e8e88a6c6323c24451c94286" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/b/fb1dc0223ed11860784cf881695701d217b75f87" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/BuildInType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/Type/BuildInType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/Compiler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/runtime/Compiler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/Parameter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/Parameter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/varl/Parameter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/Type.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/Type/Type.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/Value.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/varl/Value.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/Variable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/Variable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/varl/Variable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/block/Block.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/block/Block.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/block/Class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/block/Class.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/block/Method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/block/Method.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/block/VariableBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/block/VariableBlock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/parser/MethodParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/parser/MethodParser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/parser/VariableParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/parser/VariableParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramLanguageCompiler.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/HelloWorld.pro" beforeDir="false" afterPath="$PROJECT_DIR$/Compiler/examples/HelloWorld.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/Variables.pro" beforeDir="false" afterPath="$PROJECT_DIR$/Compiler/examples/Variables.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/examples" beforeDir="false" afterPath="$PROJECT_DIR$/Compiler/examples/examples" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Compiler/src/main/java/ProgramLanguageProject/pro/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Compiler/src/main/java/ProgramLanguageProject/pro/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/Type/BuildInType.java" beforeDir="false" afterPath="$PROJECT_DIR$/Compiler/src/main/java/ProgramLanguageProject/pro/Type/BuildInType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/Type/Type.java" beforeDir="false" afterPath="$PROJECT_DIR$/Compiler/src/main/java/ProgramLanguageProject/pro/Type/Type.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/block/Block.java" beforeDir="false" afterPath="$PROJECT_DIR$/Compiler/src/main/java/ProgramLanguageProject/pro/block/Block.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/block/Class.java" beforeDir="false" afterPath="$PROJECT_DIR$/Compiler/src/main/java/ProgramLanguageProject/pro/block/Class.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/block/Method.java" beforeDir="false" afterPath="$PROJECT_DIR$/Compiler/src/main/java/ProgramLanguageProject/pro/block/Method.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/block/VariableBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/Compiler/src/main/java/ProgramLanguageProject/pro/block/VariableBlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/parser/ClassParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/Compiler/src/main/java/ProgramLanguageProject/pro/parser/ClassParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/parser/MethodParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/Compiler/src/main/java/ProgramLanguageProject/pro/parser/MethodParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/parser/Parser.java" beforeDir="false" afterPath="$PROJECT_DIR$/Compiler/src/main/java/ProgramLanguageProject/pro/parser/Parser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/parser/VariableParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/Compiler/src/main/java/ProgramLanguageProject/pro/parser/VariableParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/runtime/Compiler.java" beforeDir="false" afterPath="$PROJECT_DIR$/Compiler/src/main/java/ProgramLanguageProject/pro/runtime/Compiler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/tokenizer/Token.java" beforeDir="false" afterPath="$PROJECT_DIR$/Compiler/src/main/java/ProgramLanguageProject/pro/tokenizer/Token.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/tokenizer/TokenData.java" beforeDir="false" afterPath="$PROJECT_DIR$/Compiler/src/main/java/ProgramLanguageProject/pro/tokenizer/TokenData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/tokenizer/TokenType.java" beforeDir="false" afterPath="$PROJECT_DIR$/Compiler/src/main/java/ProgramLanguageProject/pro/tokenizer/TokenType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/tokenizer/Tokenizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Compiler/src/main/java/ProgramLanguageProject/pro/tokenizer/Tokenizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/utils/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/Compiler/src/main/java/ProgramLanguageProject/pro/utils/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/varl/Parameter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Compiler/src/main/java/ProgramLanguageProject/pro/varl/Parameter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/varl/Value.java" beforeDir="false" afterPath="$PROJECT_DIR$/Compiler/src/main/java/ProgramLanguageProject/pro/varl/Value.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/varl/Variable.java" beforeDir="false" afterPath="$PROJECT_DIR$/Compiler/src/main/java/ProgramLanguageProject/pro/varl/Variable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ProgramLanguageProject/pro/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ProgramLanguageProject/pro/BuildInType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ProgramLanguageProject/pro/Compiler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ProgramLanguageProject/pro/Parameter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ProgramLanguageProject/pro/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ProgramLanguageProject/pro/Type.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ProgramLanguageProject/pro/Value.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ProgramLanguageProject/pro/Variable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ProgramLanguageProject/pro/block/Block.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ProgramLanguageProject/pro/block/Class.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ProgramLanguageProject/pro/block/Method.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ProgramLanguageProject/pro/block/VariableBlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ProgramLanguageProject/pro/parser/ClassParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ProgramLanguageProject/pro/parser/MethodParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ProgramLanguageProject/pro/parser/Parser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ProgramLanguageProject/pro/parser/VariableParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ProgramLanguageProject/pro/tokenizer/Token.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ProgramLanguageProject/pro/tokenizer/TokenData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ProgramLanguageProject/pro/tokenizer/TokenType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ProgramLanguageProject/pro/tokenizer/Tokenizer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ProgramLanguageProject/pro/utils/Constants.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/ProgramLanguageCompiler.kotlin_module" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -37,6 +98,9 @@
       </map>
     </option>
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="FUSProjectUsageTrigger">
     <session id="442846402">
       <usages-collector id="statistics.lifecycle.project">
@@ -50,8 +114,9 @@
           <entry key="project.open.time.49" value="1" />
           <entry key="project.open.time.57" value="1" />
           <entry key="project.open.time.61" value="1" />
+          <entry key="project.open.time.75" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -64,10 +129,11 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="73" />
-          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="JAVA" value="99" />
+          <entry key="JFlex" value="4" />
+          <entry key="PLAIN_TEXT" value="17" />
           <entry key="ProGuard File" value="17" />
-          <entry key="XML" value="1" />
+          <entry key="XML" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -80,247 +146,28 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="15280" />
-          <entry key="PLAIN_TEXT" value="750" />
+          <entry key="JAVA" value="16402" />
+          <entry key="JFlex" value="2725" />
+          <entry key="PLAIN_TEXT" value="1170" />
           <entry key="ProGuard File" value="484" />
+          <entry key="XML" value="6" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/varl/Variable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/parser/VariableParser.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="47" selection-start-line="47" selection-end-line="47" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#2213#2225#0" expanded="true" />
-                <element signature="e#2190#2237#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/utils/Constants.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="49">
-              <caret line="16" column="73" lean-forward="true" selection-start-line="16" selection-start-column="73" selection-end-line="16" selection-end-column="73" />
-              <folding>
-                <element signature="e#709#720#0" expanded="true" />
-                <element signature="e#1235#1351#0" expanded="true" />
-                <element signature="e#1414#1467#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/Type/BuildInType.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/Type/Type.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/varl/Parameter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/varl/Value.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="30" column="62" selection-start-line="30" selection-start-column="62" selection-end-line="30" selection-end-column="62" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#505#1018#1" expanded="true" />
-                <element signature="e#527#1034#0" expanded="true" />
-                <element signature="e#527#1034#0" expanded="true" />
-                <element signature="e#527#1034#0" expanded="true" />
-                <element signature="e#527#1034#0" expanded="true" />
-                <element signature="e#527#1034#0" expanded="true" />
-                <element signature="e#527#1034#0" expanded="true" />
-                <element signature="e#527#1034#0" expanded="true" />
-                <element signature="e#527#1034#0" expanded="true" />
-                <element signature="e#527#1034#0" expanded="true" />
-                <element signature="e#527#1034#0" expanded="true" />
-                <element signature="e#527#1034#0" expanded="true" />
-                <element signature="e#447#489#1" expanded="true" />
-                <element signature="e#1089#1228#0" expanded="true" />
-                <element signature="e#1089#1228#0" expanded="true" />
-                <element signature="e#536#568#1" expanded="true" />
-                <element signature="e#1188#1220#0" expanded="true" />
-                <element signature="e#594#605#0" expanded="true" />
-                <element signature="e#1188#1220#0" expanded="true" />
-                <element signature="e#1188#1220#0" expanded="true" />
-                <element signature="e#614#626#0" expanded="true" />
-                <element signature="e#1188#1220#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/runtime/Compiler.java">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+            <state relative-caret-position="575">
+              <caret line="30" column="26" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#932#933#0" expanded="true" />
-                <element signature="e#960#961#0" expanded="true" />
-                <element signature="e#863#885#0" expanded="true" />
-                <element signature="e#1352#1460#1" expanded="true" />
-                <element signature="e#1082#1159#0" expanded="true" />
-                <element signature="e#1082#1159#0" expanded="true" />
-                <element signature="e#1465#1483#1" expanded="true" />
-                <element signature="e#1488#1507#1" expanded="true" />
-                <element signature="e#1512#1536#1" expanded="true" />
-                <element signature="e#1351#1383#0" expanded="true" />
-                <element signature="e#1351#1383#0" expanded="true" />
-                <element signature="e#1662#1684#0" expanded="true" />
-                <element signature="e#1686#1690#0" expanded="true" />
-                <element signature="e#1609#3524#0" expanded="true" />
-                <element signature="e#1732#1743#0" expanded="true" />
-                <element signature="e#1757#1761#0" expanded="true" />
-                <element signature="e#1609#3524#0" expanded="true" />
-                <element signature="e#1821#1863#1" expanded="true" />
-                <element signature="e#1864#1889#0" expanded="true" />
-                <element signature="e#1864#1889#0" expanded="true" />
-                <element signature="e#1973#2018#1" expanded="true" />
-                <element signature="e#2001#2152#0" expanded="true" />
-                <element signature="e#2001#2152#0" expanded="true" />
-                <element signature="e#2069#2101#1" expanded="true" />
-                <element signature="e#2110#2142#0" expanded="true" />
-                <element signature="e#2129#2140#0" expanded="true" />
-                <element signature="e#2110#2142#0" expanded="true" />
-                <element signature="e#2110#2142#0" expanded="true" />
-                <element signature="e#2149#2161#0" expanded="true" />
-                <element signature="e#2110#2142#0" expanded="true" />
-                <element signature="e#2160#3324#0" expanded="true" />
-                <element signature="e#2184#2200#0" expanded="true" />
-                <element signature="e#2160#3324#0" expanded="true" />
-                <element signature="e#2247#3316#0" expanded="true" />
-                <element signature="e#2247#3316#0" expanded="true" />
-                <element signature="e#2308#2329#0" expanded="true" />
-                <element signature="e#2308#2329#0" expanded="true" />
-                <element signature="e#2361#2409#1" expanded="true" />
-                <element signature="e#2402#3224#0" expanded="true" />
-                <element signature="e#2402#3224#0" expanded="true" />
-                <element signature="e#2548#2577#0" expanded="true" />
-                <element signature="e#2579#2595#0" expanded="true" />
-                <element signature="e#2548#2577#0" expanded="true" />
-                <element signature="e#2596#3224#0" expanded="true" />
-                <element signature="e#2596#3224#0" expanded="true" />
-                <element signature="e#2844#2864#0" expanded="true" />
-                <element signature="e#3021#3172#0" expanded="true" />
-                <element signature="e#3072#3091#0" expanded="true" />
-                <element signature="e#3072#3107#0" expanded="true" />
-                <element signature="e#3021#3172#0" expanded="true" />
-                <element signature="e#3021#3172#0" expanded="true" />
-                <element signature="e#3159#3175#0" expanded="true" />
-                <element signature="e#3159#3191#0" expanded="true" />
-                <element signature="e#3021#3172#0" expanded="true" />
-                <element signature="e#3331#3518#0" expanded="true" />
-                <element signature="e#3331#3518#0" expanded="true" />
-                <element signature="e#3485#3508#0" expanded="true" />
-                <element signature="e#3485#3508#0" expanded="true" />
-                <element signature="e#3743#4308#0" expanded="true" />
-                <element signature="e#3567#3574#0" expanded="true" />
-                <element signature="e#3743#4308#0" expanded="true" />
-                <element signature="e#3794#3827#0" expanded="true" />
-                <element signature="e#2265#2276#0" expanded="true" />
-                <element signature="e#3794#3827#0" expanded="true" />
-                <element signature="e#3836#4302#0" expanded="true" />
-                <element signature="e#2048#2055#0" expanded="true" />
-                <element signature="e#2058#2074#0" expanded="true" />
-                <element signature="e#3836#4302#0" expanded="true" />
-                <element signature="e#3898#3951#0" expanded="true" />
-                <element signature="e#2130#2142#0" expanded="true" />
-                <element signature="e#2130#2158#0" expanded="true" />
-                <element signature="e#3898#3951#0" expanded="true" />
-                <element signature="e#3962#4294#0" expanded="true" />
-                <element signature="e#3962#4294#0" expanded="true" />
-                <element signature="e#4018#4064#0" expanded="true" />
-                <element signature="e#2491#2503#0" expanded="true" />
-                <element signature="e#2491#2503#0" expanded="true" />
-                <element signature="e#2491#2513#0" expanded="true" />
-                <element signature="e#4018#4064#0" expanded="true" />
-                <element signature="e#2206#2233#1" expanded="true" />
-                <element signature="e#2222#2232#0" expanded="true" />
-                <element signature="e#4115#4284#0" expanded="true" />
-                <element signature="e#2248#2264#0" expanded="true" />
-                <element signature="e#4119#4150#0" expanded="true" />
-                <element signature="e#4119#4150#0" expanded="true" />
-                <element signature="e#2297#2313#0" expanded="true" />
-                <element signature="e#4168#4199#0" expanded="true" />
-                <element signature="e#4168#4199#0" expanded="true" />
-                <element signature="e#2346#2364#0" expanded="true" />
-                <element signature="e#4115#4284#0" expanded="true" />
-                <element signature="e#4468#4643#0" expanded="true" />
-                <element signature="e#4468#4643#0" expanded="true" />
-                <element signature="e#2559#2608#0" expanded="true" />
-                <element signature="e#2569#2583#0" expanded="true" />
-                <element signature="e#2559#2608#0" expanded="true" />
+                <element signature="n#plugin#7;n#plugins#0;n#pluginManagement#0;n#build#0;n#project#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/App.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="339">
-              <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
-              <folding>
-                <element signature="e#395#800#1" expanded="true" />
-                <element signature="e#417#799#0" expanded="true" />
-                <element signature="e#417#799#0" expanded="true" />
-                <element signature="e#417#799#0" expanded="true" />
-                <element signature="e#417#799#0" expanded="true" />
-                <element signature="e#417#799#0" expanded="true" />
-                <element signature="e#417#799#0" expanded="true" />
-                <element signature="e#417#799#0" expanded="true" />
-                <element signature="e#417#799#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
         </entry>
       </file>
     </leaf>
@@ -339,6 +186,15 @@
       <find>8.1</find>
       <find>requires</find>
       <find>off</find>
+      <find>yylex</find>
+      <find>zzReader.clo</find>
+      <find>zzReader.close</find>
+      <find>close</find>
+      <find>reset</find>
+      <find>yyclose</find>
+      <find>zzreader</find>
+      <find>Reader</find>
+      <find>rest</find>
     </findStrings>
     <replaceStrings>
       <replace>require</replace>
@@ -350,26 +206,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/examples/examples" />
-        <option value="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/examples/HelloWorld.pro" />
-        <option value="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/examples/Variables.pro" />
-        <option value="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/Tokenizer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/Tocken.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/TockenData.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/TockenType.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/Token.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/TokenData.java" />
-        <option value="$PROJECT_DIR$/src/main/java/test/ProgramLanguageProject/pro/TokenizerTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ProgramLanguageProject/TokenizerTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/Constants.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/Tokenizer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/Tokenizer/Tokenizer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/TokenType.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/Tokenizer/TokenType.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/Block/Block.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/tokenizer/TokenData.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/tokenizer/Token.java" />
         <option value="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/block/ClassParser.java" />
         <option value="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/parser/ClassParser.java" />
         <option value="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/tokenizer/TokenType.java" />
@@ -398,6 +234,29 @@
         <option value="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/App.java" />
         <option value="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/Compiler.java" />
         <option value="$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/Type/BuildInType.java" />
+        <option value="$PROJECT_DIR$/Compiler/src/main/java/ProgramLanguageProject/pro/block/Method.java" />
+        <option value="$PROJECT_DIR$/Compiler/src/main/java/ProgramLanguageProject/pro/block/VariableBlock.java" />
+        <option value="$PROJECT_DIR$/Compiler/src/main/java/ProgramLanguageProject/pro/block/Block.java" />
+        <option value="$PROJECT_DIR$/Compiler/src/main/java/ProgramLanguageProject/pro/block/Class.java" />
+        <option value="$PROJECT_DIR$/Compiler/src/main/java/ProgramLanguageProject/pro/varl/Parameter.java" />
+        <option value="$PROJECT_DIR$/Compiler/src/main/java/ProgramLanguageProject/pro/varl/Value.java" />
+        <option value="$PROJECT_DIR$/Compiler/src/main/java/ProgramLanguageProject/pro/varl/Variable.java" />
+        <option value="$PROJECT_DIR$/Compiler/src/main/java/ProgramLanguageProject/pro/parser/MethodParser.java" />
+        <option value="$PROJECT_DIR$/Compiler/src/main/java/ProgramLanguageProject/pro/parser/Parser.java" />
+        <option value="$PROJECT_DIR$/Compiler/src/main/java/ProgramLanguageProject/pro/parser/VariableParser.java" />
+        <option value="$PROJECT_DIR$/Compiler/src/main/java/ProgramLanguageProject/pro/parser/ClassParser.java" />
+        <option value="$PROJECT_DIR$/Compiler/src/main/java/ProgramLanguageProject/pro/tokenizer/Tokenizer.java" />
+        <option value="$PROJECT_DIR$/Compiler/src/main/java/ProgramLanguageProject/pro/runtime/Compiler.java" />
+        <option value="$PROJECT_DIR$/Compiler/src/main/java/ProgramLanguageProject/pro/App.java" />
+        <option value="$PROJECT_DIR$/Lex/src/Demo.l" />
+        <option value="$PROJECT_DIR$/Lex/src/Demo.jflex" />
+        <option value="$PROJECT_DIR$/Lex/src/lexer.flex" />
+        <option value="$PROJECT_DIR$/Lex/src/App.java" />
+        <option value="$PROJECT_DIR$/Lex/src/lexial/lexer.flex" />
+        <option value="$PROJECT_DIR$/Lex/code.bak" />
+        <option value="$PROJECT_DIR$/Lex/src/lexial/Sentence.java" />
+        <option value="$PROJECT_DIR$/Lex/example/program.in" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -427,10 +286,9 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="128" />
-    <option name="y" value="-17" />
-    <option name="width" value="997" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="697" />
     <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -441,8 +299,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -453,43 +311,24 @@
             <path>
               <item name="ProgramLanguageCompiler" type="b2602c69:ProjectViewProjectNode" />
               <item name="ProgramLanguageCompiler" type="462c0819:PsiDirectoryNode" />
-              <item name="examples" type="462c0819:PsiDirectoryNode" />
+              <item name="Lex" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ProgramLanguageCompiler" type="b2602c69:ProjectViewProjectNode" />
               <item name="ProgramLanguageCompiler" type="462c0819:PsiDirectoryNode" />
+              <item name="Lex" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ProgramLanguageCompiler" type="b2602c69:ProjectViewProjectNode" />
               <item name="ProgramLanguageCompiler" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="Yacc" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ProgramLanguageCompiler" type="b2602c69:ProjectViewProjectNode" />
               <item name="ProgramLanguageCompiler" type="462c0819:PsiDirectoryNode" />
+              <item name="Yacc" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProgramLanguageCompiler" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProgramLanguageCompiler" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pro" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProgramLanguageCompiler" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProgramLanguageCompiler" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProgramLanguageCompiler" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -500,21 +339,29 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545395878275" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545419104645" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.09689923" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.CoffeeScript" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.JFlex" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="ProgramLanguageProject.pro" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\buitr\OneDrive\Máy tính\ProgramLanguageCompiler" />
+      <recent name="C:\Users\buitr\OneDrive\Máy tính\ProgramLanguageCompiler\Lex" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\buitr\OneDrive\Máy tính\ProgramLanguageCompiler\Lex\example" />
+      <recent name="C:\Users\buitr\OneDrive\Máy tính\ProgramLanguageCompiler\Lex\src\lexial" />
+      <recent name="C:\Users\buitr\OneDrive\Máy tính\ProgramLanguageCompiler\Compiler" />
       <recent name="C:\Users\buitr\OneDrive\Máy tính\ProgramLanguageCompiler" />
       <recent name="C:\Users\buitr\OneDrive\Máy tính\ProgramLanguageCompiler\src\main" />
     </key>
@@ -551,7 +398,27 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.App">
+  <component name="RunManager" selected="Application.App (2)">
+    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.ProgramLanguageProject.pro.App" />
+      <module name="Compiler" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.ProgramLanguageProject.pro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="Lex" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ProgramLanguageProject.pro.App" />
       <module name="ProgramLanguageCompiler" />
@@ -591,30 +458,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TokenizerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProgramLanguageProject.TokenizerTest" />
-      <module name="ProgramLanguageCompiler" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ProgramLanguageProject.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.TokenizerTest" />
+      <item itemvalue="Application.Compiler" />
       <item itemvalue="Application.App" />
       <item itemvalue="Application.Test" />
+      <item itemvalue="Application.App (1)" />
+      <item itemvalue="Application.App (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App (2)" />
+        <item itemvalue="Application.App (1)" />
         <item itemvalue="Application.App" />
         <item itemvalue="Application.Compiler" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.TokenizerTest" />
       </list>
     </recent_temporary>
   </component>
@@ -640,17 +497,18 @@
       <workItem from="1543399451284" duration="68000" />
       <workItem from="1543399673398" duration="5482000" />
       <workItem from="1543550135197" duration="863000" />
-      <workItem from="1545350854149" duration="21043000" />
+      <workItem from="1545350854149" duration="25590000" />
+      <workItem from="1545404473892" duration="13565000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57556000" />
+    <option name="totallyTimeSpent" value="75668000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21271764" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18849356" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Project Explorer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -694,7 +552,7 @@
       <window_info anchor="bottom" id="Console" order="29" />
       <window_info anchor="bottom" id="JProfiler" order="30" />
       <window_info anchor="bottom" id="Floobits" order="31" />
-      <window_info anchor="bottom" id="Terminal" order="32" />
+      <window_info anchor="bottom" id="Terminal" order="32" weight="0.32242227" />
       <window_info anchor="bottom" id="Code Review" order="33" />
       <window_info anchor="bottom" id="Event Log" order="34" sideWeight="0.5015129" side_tool="true" weight="0.3289689" />
       <window_info anchor="bottom" id="ANTLR Preview" order="35" weight="0.3289689" />
@@ -729,6 +587,86 @@
       <window_info anchor="right" id="Material Palette" order="22" />
       <window_info anchor="right" id="SciView" order="23" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18849356" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Project Explorer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="JRebel" order="5" side_tool="true" />
+      <window_info id="Learn" order="6" />
+      <window_info id="DB Browser" order="7" />
+      <window_info id="Image Layers" order="8" />
+      <window_info id="Designer" order="9" />
+      <window_info id="Job Explorer" order="10" />
+      <window_info id="UI Designer" order="11" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49848714" visible="true" weight="0.63993454" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Graph Database Console" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="9" />
+      <window_info anchor="bottom" id="Tail" order="10" />
+      <window_info anchor="bottom" id="IDEtalk Messages" order="11" />
+      <window_info anchor="bottom" id="Analysis" order="12" />
+      <window_info anchor="bottom" id="Tool Output" order="13" />
+      <window_info anchor="bottom" id="SBT Console" order="14" />
+      <window_info anchor="bottom" id="Secure Coding Plugin" order="15" side_tool="true" />
+      <window_info anchor="bottom" id="DB Execution Console" order="16" />
+      <window_info anchor="bottom" id="CheckStyle" order="17" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="18" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="19" />
+      <window_info anchor="bottom" id="Atlassian " order="20" />
+      <window_info anchor="bottom" id="Version Control" order="21" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Reviews" order="22" />
+      <window_info anchor="bottom" id="Regex" order="23" />
+      <window_info anchor="bottom" id="Hybris Console" order="24" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="25" sideWeight="0.49924356" weight="0.3289689" />
+      <window_info anchor="bottom" id="Statistic" order="26" />
+      <window_info anchor="bottom" id="JRebel Console" order="27" side_tool="true" />
+      <window_info anchor="bottom" id="Regex Tester" order="28" />
+      <window_info anchor="bottom" id="Console" order="29" />
+      <window_info anchor="bottom" id="JProfiler" order="30" />
+      <window_info anchor="bottom" id="Floobits" order="31" />
+      <window_info anchor="bottom" id="Terminal" order="32" weight="0.3289689" />
+      <window_info anchor="bottom" id="Code Review" order="33" />
+      <window_info anchor="bottom" id="Event Log" order="34" sideWeight="0.5015129" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="ANTLR Preview" order="35" weight="0.3289689" />
+      <window_info anchor="bottom" id="Database Changes" order="36" show_stripe_button="false" />
+      <window_info anchor="bottom" id="SQL" order="37" />
+      <window_info anchor="bottom" id="SonarLint" order="38" weight="0.3289689" />
+      <window_info anchor="bottom" id="Sequence" order="39" />
+      <window_info anchor="bottom" id="RemoteSynchronizer" order="40" />
+      <window_info anchor="bottom" id="JRebel Executor" order="41" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Copy/Paste" order="3" />
+      <window_info anchor="right" id="LuaJ" order="4" />
+      <window_info anchor="right" id="News Feed" order="5" />
+      <window_info anchor="right" id="Mongo Explorer" order="6" weight="0.329296" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="PlantUML" order="8" />
+      <window_info anchor="right" id="Graphical Navigator" order="9" type="SLIDING" />
+      <window_info anchor="right" id="SvgViewer" order="10" weight="0.32980332" />
+      <window_info anchor="right" id="Palette&#9;" order="11" />
+      <window_info anchor="right" id="JSON Viewer" order="12" />
+      <window_info anchor="right" id="Quick Notes" order="13" />
+      <window_info anchor="right" id="Database" order="14" />
+      <window_info anchor="right" id="Capture Analysis" order="15" />
+      <window_info anchor="right" id="Palette" order="16" />
+      <window_info anchor="right" id="Key Promoter X" order="17" />
+      <window_info anchor="right" id="UML Diagrams" order="18" type="SLIDING" />
+      <window_info anchor="right" id="Graph Database" order="19" />
+      <window_info anchor="right" id="Maven Projects" order="20" />
+      <window_info anchor="right" id="IDEtalk" order="21" />
+      <window_info anchor="right" id="Material Palette" order="22" />
+      <window_info anchor="right" id="SciView" order="23" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -751,53 +689,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ProgramLanguageProject/TokenizerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1242">
-          <caret line="65" column="23" selection-start-line="65" selection-start-column="23" selection-end-line="65" selection-end-column="23" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ProgramLanguageProject/TokenizerTest.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/abc/PC.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/abc/Computer.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/abc/Server.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/abc/ComputerFactory.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/abc/TestFactory.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/parser/MethodParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="68" column="109" selection-start-line="68" selection-start-column="109" selection-end-line="68" selection-end-column="109" />
-          <folding>
-            <element signature="e#2604#2670#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/test/ProgramLanguageProject/pro/TokenizerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-69">
-          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/parser/Parser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/test/ProgramLanguageProject/pro/TokenizerTest.java" />
     <entry file="jar://C:/Program Files/Java/jdk-12/lib/src.zip!/java.base/java/lang/Class.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
@@ -805,402 +703,450 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/block/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="29" column="99" selection-start-line="29" selection-start-column="99" selection-end-line="29" selection-end-column="99" />
-          <folding>
-            <element signature="e#802#1115#0" expanded="true" />
-            <element signature="e#734#741#0" expanded="true" />
-            <element signature="e#744#760#0" expanded="true" />
-            <element signature="e#802#1115#0" expanded="true" />
-            <element signature="e#799#826#1" expanded="true" />
-            <element signature="e#815#825#0" expanded="true" />
-            <element signature="e#835#851#0" expanded="true" />
-            <element signature="e#936#967#0" expanded="true" />
-            <element signature="e#936#967#0" expanded="true" />
-            <element signature="e#870#886#0" expanded="true" />
-            <element signature="e#971#1002#0" expanded="true" />
-            <element signature="e#971#1002#0" expanded="true" />
-            <element signature="e#905#923#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/parser/ClassParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="22" column="50" lean-forward="true" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/block/VariableBlock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#671#672#0" expanded="true" />
-            <element signature="e#689#690#0" expanded="true" />
-            <element signature="e#718#719#0" expanded="true" />
-            <element signature="e#736#737#0" expanded="true" />
-            <element signature="e#766#767#0" expanded="true" />
-            <element signature="e#785#786#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/block/Block.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="76" column="5" lean-forward="true" selection-start-line="76" selection-start-column="5" selection-end-line="76" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1245#1288#1" expanded="true" />
-            <element signature="e#1293#1312#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/tokenizer/TokenData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/tokenizer/Tokenizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1569">
-          <caret line="81" column="10" selection-start-line="81" selection-start-column="10" selection-end-line="81" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#787#893#0" expanded="true" />
-            <element signature="e#787#893#0" expanded="true" />
-            <element signature="e#899#1028#0" expanded="true" />
-            <element signature="e#899#1028#0" expanded="true" />
-            <element signature="e#1034#1148#0" expanded="true" />
-            <element signature="e#1034#1148#0" expanded="true" />
-            <element signature="e#1155#1485#0" expanded="true" />
-            <element signature="e#1160#1168#0" expanded="true" />
-            <element signature="e#1155#1485#0" expanded="true" />
-            <element signature="e#1413#1478#0" expanded="true" />
-            <element signature="e#1413#1478#0" expanded="true" />
-            <element signature="e#2117#2380#0" expanded="true" />
-            <element signature="e#2117#2380#0" expanded="true" />
-            <element signature="e#2221#2259#0" expanded="true" />
-            <element signature="e#2221#2259#0" expanded="true" />
-            <element signature="e#2221#2259#0" expanded="true" />
-            <element signature="e#2221#2259#0" expanded="true" />
-            <element signature="e#2431#2455#0" expanded="true" />
-            <element signature="e#2431#2455#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/tokenizer/Token.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
-          <folding>
-            <element signature="e#526#527#0" expanded="true" />
-            <element signature="e#554#555#0" expanded="true" />
-            <element signature="e#588#589#0" expanded="true" />
-            <element signature="e#615#616#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examples/examples">
+    <entry file="file://$PROJECT_DIR$/Compiler/examples/examples">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
           <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/tokenizer/TokenType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/block/Method.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="69" column="11" selection-start-line="69" selection-start-column="11" selection-end-line="69" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1301#1388#0" expanded="true" />
-            <element signature="e#1301#1388#0" expanded="true" />
-            <element signature="e#1301#1388#0" expanded="true" />
-            <element signature="e#1301#1388#0" expanded="true" />
-            <element signature="e#1301#1388#0" expanded="true" />
-            <element signature="e#1301#1388#0" expanded="true" />
-            <element signature="e#1439#1629#0" expanded="true" />
-            <element signature="e#1439#1629#0" expanded="true" />
-            <element signature="e#1439#1629#0" expanded="true" />
-            <element signature="e#1439#1629#0" expanded="true" />
-            <element signature="e#1439#1629#0" expanded="true" />
-            <element signature="e#1439#1629#0" expanded="true" />
-            <element signature="e#1439#1629#0" expanded="true" />
-            <element signature="e#1640#1650#1" expanded="true" />
-            <element signature="e#1742#1766#1" expanded="true" />
-            <element signature="e#1831#1851#1" expanded="true" />
-            <element signature="e#1859#2131#0" expanded="true" />
-            <element signature="e#1859#2131#0" expanded="true" />
-            <element signature="e#1863#1874#0" expanded="true" />
-            <element signature="e#1859#2131#0" expanded="true" />
-            <element signature="e#1878#1889#0" expanded="true" />
-            <element signature="e#1859#2131#0" expanded="true" />
-            <element signature="e#1977#1988#0" expanded="true" />
-            <element signature="e#2044#2055#0" expanded="true" />
-            <element signature="e#2110#2121#0" expanded="true" />
-            <element signature="e#2313#2324#0" expanded="true" />
-            <element signature="e#2326#2337#0" expanded="true" />
-            <element signature="e#2339#2351#0" expanded="true" />
-            <element signature="e#2416#2423#0" expanded="true" />
-            <element signature="e#2426#2440#0" expanded="true" />
-            <element signature="e#2940#2977#1" expanded="true" />
-            <element signature="e#3134#3135#0" expanded="true" />
-            <element signature="e#3155#3156#0" expanded="true" />
-            <element signature="e#3186#3187#0" expanded="true" />
-            <element signature="e#3207#3208#0" expanded="true" />
-            <element signature="e#3245#3246#0" expanded="true" />
-            <element signature="e#3268#3269#0" expanded="true" />
-            <element signature="e#3305#3306#0" expanded="true" />
-            <element signature="e#3333#3334#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examples/HelloWorld.pro">
+    <entry file="file://$PROJECT_DIR$/Compiler/examples/HelloWorld.pro">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
           <caret line="3" column="27" lean-forward="true" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/examples/Variables.pro">
+    <entry file="file://$PROJECT_DIR$/Compiler/examples/Variables.pro">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
           <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/parser/VariableParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="47" selection-start-line="47" selection-end-line="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2213#2225#0" expanded="true" />
-            <element signature="e#2190#2237#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/Test.java">
+    <entry file="file://$PROJECT_DIR$/Compiler/src/main/java/ProgramLanguageProject/pro/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
           <caret line="30" column="62" selection-start-line="30" selection-start-column="62" selection-end-line="30" selection-end-column="62" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#505#1018#1" expanded="true" />
-            <element signature="e#527#1034#0" expanded="true" />
-            <element signature="e#527#1034#0" expanded="true" />
-            <element signature="e#527#1034#0" expanded="true" />
-            <element signature="e#527#1034#0" expanded="true" />
-            <element signature="e#527#1034#0" expanded="true" />
-            <element signature="e#527#1034#0" expanded="true" />
-            <element signature="e#527#1034#0" expanded="true" />
-            <element signature="e#527#1034#0" expanded="true" />
-            <element signature="e#527#1034#0" expanded="true" />
-            <element signature="e#527#1034#0" expanded="true" />
-            <element signature="e#527#1034#0" expanded="true" />
-            <element signature="e#447#489#1" expanded="true" />
-            <element signature="e#1089#1228#0" expanded="true" />
-            <element signature="e#1089#1228#0" expanded="true" />
-            <element signature="e#536#568#1" expanded="true" />
-            <element signature="e#1188#1220#0" expanded="true" />
-            <element signature="e#594#605#0" expanded="true" />
-            <element signature="e#1188#1220#0" expanded="true" />
-            <element signature="e#1188#1220#0" expanded="true" />
-            <element signature="e#614#626#0" expanded="true" />
-            <element signature="e#1188#1220#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
-          <folding>
-            <element signature="e#395#800#1" expanded="true" />
-            <element signature="e#417#799#0" expanded="true" />
-            <element signature="e#417#799#0" expanded="true" />
-            <element signature="e#417#799#0" expanded="true" />
-            <element signature="e#417#799#0" expanded="true" />
-            <element signature="e#417#799#0" expanded="true" />
-            <element signature="e#417#799#0" expanded="true" />
-            <element signature="e#417#799#0" expanded="true" />
-            <element signature="e#417#799#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/utils/Constants.java">
+    <entry file="file://$PROJECT_DIR$/Compiler/src/main/java/ProgramLanguageProject/pro/utils/Constants.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="49">
-          <caret line="16" column="73" lean-forward="true" selection-start-line="16" selection-start-column="73" selection-end-line="16" selection-end-column="73" />
-          <folding>
-            <element signature="e#709#720#0" expanded="true" />
-            <element signature="e#1235#1351#0" expanded="true" />
-            <element signature="e#1414#1467#0" expanded="true" />
-          </folding>
+          <caret line="16" column="73" selection-start-line="16" selection-start-column="73" selection-end-line="16" selection-end-column="73" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/Type/BuildInType.java">
+    <entry file="file://$PROJECT_DIR$/Compiler/src/main/java/ProgramLanguageProject/pro/block/Block.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
+        <state relative-caret-position="-861">
+          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Compiler/src/main/java/ProgramLanguageProject/pro/block/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="82" column="26" selection-start-line="82" selection-start-column="26" selection-end-line="82" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Compiler/src/main/java/ProgramLanguageProject/pro/block/VariableBlock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="44" column="11" selection-start-line="44" selection-start-column="11" selection-end-line="44" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Compiler/src/main/java/ProgramLanguageProject/pro/varl/Variable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Compiler/src/main/java/ProgramLanguageProject/pro/varl/Value.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Compiler/src/main/java/ProgramLanguageProject/pro/varl/Parameter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Compiler/src/main/java/ProgramLanguageProject/pro/parser/MethodParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="67" column="16" selection-start-line="67" selection-start-column="16" selection-end-line="67" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Compiler/src/main/java/ProgramLanguageProject/pro/parser/VariableParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="49" column="29" lean-forward="true" selection-start-line="49" selection-start-column="29" selection-end-line="49" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Compiler/src/main/java/ProgramLanguageProject/pro/block/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Compiler/src/main/java/ProgramLanguageProject/pro/parser/Parser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="16" column="42" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Compiler/src/main/java/ProgramLanguageProject/pro/parser/ClassParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Compiler/src/main/java/ProgramLanguageProject/pro/tokenizer/Token.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Compiler/src/main/java/ProgramLanguageProject/pro/tokenizer/Tokenizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-667">
+          <caret line="36" column="41" selection-start-line="36" selection-start-column="41" selection-end-line="36" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Compiler/src/main/java/ProgramLanguageProject/pro/tokenizer/TokenType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
           <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/Type/Type.java">
+    <entry file="file://$PROJECT_DIR$/Compiler/src/main/java/ProgramLanguageProject/pro/tokenizer/TokenData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Compiler/src/main/java/ProgramLanguageProject/pro/Type/Type.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/varl/Parameter.java">
+    <entry file="file://$PROJECT_DIR$/Compiler/src/main/java/ProgramLanguageProject/pro/Type/BuildInType.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        <state relative-caret-position="184">
+          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/varl/Value.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/varl/Variable.java">
+    <entry file="file://$PROJECT_DIR$/Compiler/src/main/java/ProgramLanguageProject/pro/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="178">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <caret line="13" column="2" lean-forward="true" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProgramLanguageProject/pro/runtime/Compiler.java">
+    <entry file="file://$PROJECT_DIR$/Compiler/src/main/java/ProgramLanguageProject/pro/runtime/Compiler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        <state relative-caret-position="-926">
+          <caret line="66" column="39" selection-start-line="66" selection-start-column="39" selection-end-line="66" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lex/src/Demo.jflex" />
+    <entry file="file://$PROJECT_DIR$/Lex/src/helper/StringHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="21" column="9" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="21" selection-end-column="9" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#932#933#0" expanded="true" />
-            <element signature="e#960#961#0" expanded="true" />
-            <element signature="e#863#885#0" expanded="true" />
-            <element signature="e#1352#1460#1" expanded="true" />
-            <element signature="e#1082#1159#0" expanded="true" />
-            <element signature="e#1082#1159#0" expanded="true" />
-            <element signature="e#1465#1483#1" expanded="true" />
-            <element signature="e#1488#1507#1" expanded="true" />
-            <element signature="e#1512#1536#1" expanded="true" />
-            <element signature="e#1351#1383#0" expanded="true" />
-            <element signature="e#1351#1383#0" expanded="true" />
-            <element signature="e#1662#1684#0" expanded="true" />
-            <element signature="e#1686#1690#0" expanded="true" />
-            <element signature="e#1609#3524#0" expanded="true" />
-            <element signature="e#1732#1743#0" expanded="true" />
-            <element signature="e#1757#1761#0" expanded="true" />
-            <element signature="e#1609#3524#0" expanded="true" />
-            <element signature="e#1821#1863#1" expanded="true" />
-            <element signature="e#1864#1889#0" expanded="true" />
-            <element signature="e#1864#1889#0" expanded="true" />
-            <element signature="e#1973#2018#1" expanded="true" />
-            <element signature="e#2001#2152#0" expanded="true" />
-            <element signature="e#2001#2152#0" expanded="true" />
-            <element signature="e#2069#2101#1" expanded="true" />
-            <element signature="e#2110#2142#0" expanded="true" />
-            <element signature="e#2129#2140#0" expanded="true" />
-            <element signature="e#2110#2142#0" expanded="true" />
-            <element signature="e#2110#2142#0" expanded="true" />
-            <element signature="e#2149#2161#0" expanded="true" />
-            <element signature="e#2110#2142#0" expanded="true" />
-            <element signature="e#2160#3324#0" expanded="true" />
-            <element signature="e#2184#2200#0" expanded="true" />
-            <element signature="e#2160#3324#0" expanded="true" />
-            <element signature="e#2247#3316#0" expanded="true" />
-            <element signature="e#2247#3316#0" expanded="true" />
-            <element signature="e#2308#2329#0" expanded="true" />
-            <element signature="e#2308#2329#0" expanded="true" />
-            <element signature="e#2361#2409#1" expanded="true" />
-            <element signature="e#2402#3224#0" expanded="true" />
-            <element signature="e#2402#3224#0" expanded="true" />
-            <element signature="e#2548#2577#0" expanded="true" />
-            <element signature="e#2579#2595#0" expanded="true" />
-            <element signature="e#2548#2577#0" expanded="true" />
-            <element signature="e#2596#3224#0" expanded="true" />
-            <element signature="e#2596#3224#0" expanded="true" />
-            <element signature="e#2844#2864#0" expanded="true" />
-            <element signature="e#3021#3172#0" expanded="true" />
-            <element signature="e#3072#3091#0" expanded="true" />
-            <element signature="e#3072#3107#0" expanded="true" />
-            <element signature="e#3021#3172#0" expanded="true" />
-            <element signature="e#3021#3172#0" expanded="true" />
-            <element signature="e#3159#3175#0" expanded="true" />
-            <element signature="e#3159#3191#0" expanded="true" />
-            <element signature="e#3021#3172#0" expanded="true" />
-            <element signature="e#3331#3518#0" expanded="true" />
-            <element signature="e#3331#3518#0" expanded="true" />
-            <element signature="e#3485#3508#0" expanded="true" />
-            <element signature="e#3485#3508#0" expanded="true" />
-            <element signature="e#3743#4308#0" expanded="true" />
-            <element signature="e#3567#3574#0" expanded="true" />
-            <element signature="e#3743#4308#0" expanded="true" />
-            <element signature="e#3794#3827#0" expanded="true" />
-            <element signature="e#2265#2276#0" expanded="true" />
-            <element signature="e#3794#3827#0" expanded="true" />
-            <element signature="e#3836#4302#0" expanded="true" />
-            <element signature="e#2048#2055#0" expanded="true" />
-            <element signature="e#2058#2074#0" expanded="true" />
-            <element signature="e#3836#4302#0" expanded="true" />
-            <element signature="e#3898#3951#0" expanded="true" />
-            <element signature="e#2130#2142#0" expanded="true" />
-            <element signature="e#2130#2158#0" expanded="true" />
-            <element signature="e#3898#3951#0" expanded="true" />
-            <element signature="e#3962#4294#0" expanded="true" />
-            <element signature="e#3962#4294#0" expanded="true" />
-            <element signature="e#4018#4064#0" expanded="true" />
-            <element signature="e#2491#2503#0" expanded="true" />
-            <element signature="e#2491#2503#0" expanded="true" />
-            <element signature="e#2491#2513#0" expanded="true" />
-            <element signature="e#4018#4064#0" expanded="true" />
-            <element signature="e#2206#2233#1" expanded="true" />
-            <element signature="e#2222#2232#0" expanded="true" />
-            <element signature="e#4115#4284#0" expanded="true" />
-            <element signature="e#2248#2264#0" expanded="true" />
-            <element signature="e#4119#4150#0" expanded="true" />
-            <element signature="e#4119#4150#0" expanded="true" />
-            <element signature="e#2297#2313#0" expanded="true" />
-            <element signature="e#4168#4199#0" expanded="true" />
-            <element signature="e#4168#4199#0" expanded="true" />
-            <element signature="e#2346#2364#0" expanded="true" />
-            <element signature="e#4115#4284#0" expanded="true" />
-            <element signature="e#4468#4643#0" expanded="true" />
-            <element signature="e#4468#4643#0" expanded="true" />
-            <element signature="e#2559#2608#0" expanded="true" />
-            <element signature="e#2569#2583#0" expanded="true" />
-            <element signature="e#2559#2608#0" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#528#539#0" expanded="true" />
+            <element signature="e#528#539#0" expanded="true" />
+            <element signature="e#543#557#0" expanded="true" />
+            <element signature="e#543#557#0" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lex/program.in">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program.in">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program.err">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12/lib/src.zip!/java.base/java/io/FileInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="271" column="15" selection-start-line="271" selection-start-column="15" selection-end-line="271" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12/lib/src.zip!/java.base/java/io/Reader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2812">
+          <caret line="248" column="4" lean-forward="true" selection-start-line="248" selection-start-column="4" selection-end-line="248" selection-end-column="4" />
+          <folding>
+            <element signature="e#8608#8609#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lex/example/program.err">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lex/example/program.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lex/example/program.out">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lex/src/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="34" column="28" lean-forward="true" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#301#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#389#410#1" expanded="true" />
+            <element signature="e#505#825#0" expanded="true" />
+            <element signature="e#434#444#1" expanded="true" />
+            <element signature="e#505#825#0" expanded="true" />
+            <element signature="e#505#825#0" expanded="true" />
+            <element signature="e#505#825#0" expanded="true" />
+            <element signature="e#505#825#0" expanded="true" />
+            <element signature="e#553#817#0" expanded="true" />
+            <element signature="e#557#579#0" expanded="true" />
+            <element signature="e#557#579#0" expanded="true" />
+            <element signature="e#553#817#0" expanded="true" />
+            <element signature="e#608#699#0" expanded="true" />
+            <element signature="e#608#699#0" expanded="true" />
+            <element signature="e#608#699#0" expanded="true" />
+            <element signature="e#608#699#0" expanded="true" />
+            <element signature="e#608#699#0" expanded="true" />
+            <element signature="e#608#699#0" expanded="true" />
+            <element signature="e#608#699#0" expanded="true" />
+            <element signature="e#832#915#0" expanded="true" />
+            <element signature="e#832#915#0" expanded="true" />
+            <element signature="e#832#915#0" expanded="true" />
+            <element signature="e#832#915#0" expanded="true" />
+            <element signature="e#832#915#0" expanded="true" />
+            <element signature="e#832#915#0" expanded="true" />
+            <element signature="e#923#955#1" expanded="true" />
+            <element signature="e#962#1048#0" expanded="true" />
+            <element signature="e#962#1048#0" expanded="true" />
+            <element signature="e#1056#1142#0" expanded="true" />
+            <element signature="e#1056#1142#0" expanded="true" />
+            <element signature="e#1171#1288#0" expanded="true" />
+            <element signature="e#1171#1288#0" expanded="true" />
+            <element signature="e#1218#1253#0" expanded="true" />
+            <element signature="e#1218#1253#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lex/code.bak">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lex/src/lexial/Sentence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="225" column="38" selection-start-line="225" selection-start-column="38" selection-end-line="225" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1313#1799#0" expanded="true" />
+            <element signature="e#1313#1799#0" expanded="true" />
+            <element signature="e#1313#1799#0" expanded="true" />
+            <element signature="e#1313#1799#0" expanded="true" />
+            <element signature="e#1313#1799#0" expanded="true" />
+            <element signature="e#1313#1799#0" expanded="true" />
+            <element signature="e#2116#2228#0" expanded="true" />
+            <element signature="e#2116#2228#0" expanded="true" />
+            <element signature="e#2278#2306#1" expanded="true" />
+            <element signature="e#2311#2326#1" expanded="true" />
+            <element signature="e#2500#2510#0" expanded="true" />
+            <element signature="e#2551#2566#0" expanded="true" />
+            <element signature="e#2602#2626#1" expanded="true" />
+            <element signature="e#2699#2847#0" expanded="true" />
+            <element signature="e#2699#2847#0" expanded="true" />
+            <element signature="e#2653#2684#1" expanded="true" />
+            <element signature="e#2733#2751#0" expanded="true" />
+            <element signature="e#2733#2751#0" expanded="true" />
+            <element signature="e#2691#2722#1" expanded="true" />
+            <element signature="e#2771#2789#0" expanded="true" />
+            <element signature="e#2771#2789#0" expanded="true" />
+            <element signature="e#2797#2841#0" expanded="true" />
+            <element signature="e#2797#2841#0" expanded="true" />
+            <element signature="e#2992#3617#0" expanded="true" />
+            <element signature="e#2992#3617#0" expanded="true" />
+            <element signature="e#2992#3617#0" expanded="true" />
+            <element signature="e#2992#3617#0" expanded="true" />
+            <element signature="e#2992#3617#0" expanded="true" />
+            <element signature="e#2992#3617#0" expanded="true" />
+            <element signature="e#2992#3617#0" expanded="true" />
+            <element signature="e#2992#3617#0" expanded="true" />
+            <element signature="e#2992#3617#0" expanded="true" />
+            <element signature="e#3667#3695#1" expanded="true" />
+            <element signature="e#3700#3715#1" expanded="true" />
+            <element signature="e#3889#3899#0" expanded="true" />
+            <element signature="e#3935#3950#0" expanded="true" />
+            <element signature="e#3986#4010#1" expanded="true" />
+            <element signature="e#4083#4194#0" expanded="true" />
+            <element signature="e#4083#4194#0" expanded="true" />
+            <element signature="e#4037#4073#1" expanded="true" />
+            <element signature="e#4116#4134#0" expanded="true" />
+            <element signature="e#4116#4134#0" expanded="true" />
+            <element signature="e#4169#4187#0" expanded="true" />
+            <element signature="e#4169#4187#0" expanded="true" />
+            <element signature="e#4309#5699#0" expanded="true" />
+            <element signature="e#4309#5699#0" expanded="true" />
+            <element signature="e#4309#5699#0" expanded="true" />
+            <element signature="e#4309#5699#0" expanded="true" />
+            <element signature="e#4309#5699#0" expanded="true" />
+            <element signature="e#4309#5699#0" expanded="true" />
+            <element signature="e#4309#5699#0" expanded="true" />
+            <element signature="e#4309#5699#0" expanded="true" />
+            <element signature="e#4309#5699#0" expanded="true" />
+            <element signature="e#4309#5699#0" expanded="true" />
+            <element signature="e#4309#5699#0" expanded="true" />
+            <element signature="e#4309#5699#0" expanded="true" />
+            <element signature="e#4309#5699#0" expanded="true" />
+            <element signature="e#4309#5699#0" expanded="true" />
+            <element signature="e#4309#5699#0" expanded="true" />
+            <element signature="e#4309#5699#0" expanded="true" />
+            <element signature="e#4309#5699#0" expanded="true" />
+            <element signature="e#4309#5699#0" expanded="true" />
+            <element signature="e#4309#5699#0" expanded="true" />
+            <element signature="e#4309#5699#0" expanded="true" />
+            <element signature="e#4309#5699#0" expanded="true" />
+            <element signature="e#4309#5699#0" expanded="true" />
+            <element signature="e#4309#5699#0" expanded="true" />
+            <element signature="e#4309#5699#0" expanded="true" />
+            <element signature="e#4309#5699#0" expanded="true" />
+            <element signature="e#4309#5699#0" expanded="true" />
+            <element signature="e#4309#5699#0" expanded="true" />
+            <element signature="e#4309#5699#0" expanded="true" />
+            <element signature="e#4309#5699#0" expanded="true" />
+            <element signature="e#5748#5778#1" expanded="true" />
+            <element signature="e#5783#5798#1" expanded="true" />
+            <element signature="e#5969#5979#0" expanded="true" />
+            <element signature="e#6020#6035#0" expanded="true" />
+            <element signature="e#6071#6095#1" expanded="true" />
+            <element signature="e#6168#6331#0" expanded="true" />
+            <element signature="e#6168#6331#0" expanded="true" />
+            <element signature="e#6122#6153#1" expanded="true" />
+            <element signature="e#6202#6220#0" expanded="true" />
+            <element signature="e#6202#6220#0" expanded="true" />
+            <element signature="e#6160#6191#1" expanded="true" />
+            <element signature="e#6240#6258#0" expanded="true" />
+            <element signature="e#6240#6258#0" expanded="true" />
+            <element signature="e#6281#6325#0" expanded="true" />
+            <element signature="e#6281#6325#0" expanded="true" />
+            <element signature="e#6877#6976#0" expanded="true" />
+            <element signature="e#6877#6976#0" expanded="true" />
+            <element signature="e#7029#7057#1" expanded="true" />
+            <element signature="e#7062#7077#1" expanded="true" />
+            <element signature="e#7260#7270#0" expanded="true" />
+            <element signature="e#7311#7326#0" expanded="true" />
+            <element signature="e#7362#7386#1" expanded="true" />
+            <element signature="e#7459#7607#0" expanded="true" />
+            <element signature="e#7459#7607#0" expanded="true" />
+            <element signature="e#7413#7444#1" expanded="true" />
+            <element signature="e#7493#7511#0" expanded="true" />
+            <element signature="e#7493#7511#0" expanded="true" />
+            <element signature="e#7451#7482#1" expanded="true" />
+            <element signature="e#7531#7549#0" expanded="true" />
+            <element signature="e#7531#7549#0" expanded="true" />
+            <element signature="e#7557#7601#0" expanded="true" />
+            <element signature="e#7557#7601#0" expanded="true" />
+            <element signature="e#7782#7848#0" expanded="true" />
+            <element signature="e#7782#7848#0" expanded="true" />
+            <element signature="e#7792#7793#0" expanded="true" />
+            <element signature="e#7856#7857#0" expanded="true" />
+            <element signature="e#9433#9434#0" expanded="true" />
+            <element signature="e#9797#9808#0" expanded="true" />
+            <element signature="e#9797#9808#0" expanded="true" />
+            <element signature="e#9812#9826#0" expanded="true" />
+            <element signature="e#9812#9826#0" expanded="true" />
+            <element signature="e#9507#9508#0" expanded="true" />
+            <element signature="e#11165#11225#1" expanded="true" />
+            <element signature="e#16820#16845#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lex/src/lexial/lexer.flex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="102" column="33" selection-start-line="102" selection-start-column="33" selection-end-line="102" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#979#980#0" expanded="true" />
+            <element signature="e#1018#1029#0" expanded="true" />
+            <element signature="e#1033#1047#0" expanded="true" />
+            <element signature="e#1053#1054#0" expanded="true" />
+            <element signature="e#1325#1361#0" expanded="true" />
+            <element signature="e#1572#1596#0" expanded="true" />
+            <element signature="e#1694#1716#0" expanded="true" />
+            <element signature="e#1857#1883#0" expanded="true" />
+            <element signature="e#1940#1961#0" expanded="true" />
+            <element signature="e#2018#2036#0" expanded="true" />
+            <element signature="e#2093#2111#0" expanded="true" />
+            <element signature="e#2168#2185#0" expanded="true" />
+            <element signature="e#2532#2551#0" expanded="true" />
+            <element signature="e#2609#2628#0" expanded="true" />
+            <element signature="e#2712#2753#0" expanded="true" />
+            <element signature="e#2712#2753#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="30" column="26" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
+          <folding>
+            <element signature="n#plugin#7;n#plugins#0;n#pluginManagement#0;n#build#0;n#project#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
   </component>
   <component name="masterDetails">

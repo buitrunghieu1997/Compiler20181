@@ -1,0 +1,12 @@
+{
+    try {
+      zzReader = new FileReader(new File("./Lex/example", "program.in"));
+    } catch (FileNotFoundException e) {
+      e.printStackTrace();
+    }
+  }
+
+
+  public Sentence() {
+    yybegin(FIRST); // khởi tạo trạng thái ban đầu là FIRST
+  }
