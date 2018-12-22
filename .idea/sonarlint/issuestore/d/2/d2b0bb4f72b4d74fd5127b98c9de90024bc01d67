@@ -1,0 +1,9 @@
+
+esquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(®¥À8§êŒı,
+esquid:S00112$"FDefine and throw a dedicated exception instead of using a generic one.(ı•¯í8§êŒı,
+‹ squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ8§êŒı,
+V
+squid:S106,"9Replace this use of System.out or System.err by a logger.(µÜƒç8§êŒı,
+1squid:S1220""Move this file to a named package.
+jsquid:S00112 "FDefine and throw a dedicated exception instead of using a generic one.(ÃÛËİÿÿÿÿÿ8§êŒı,
+Fsquid:S1148-"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8»ùçı,

@@ -7,5 +7,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="java-cup" level="project" />
+    <orderEntry type="library" name="ostermillerutils_1_06_01 (2)" level="project" />
   </component>
 </module>

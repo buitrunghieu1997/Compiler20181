@@ -1,0 +1,69 @@
+
+Qsquid:S1199"-Extract this nested code block into a method.(£Κ©ÿÿÿÿÿ8ρι“‘ύ,
+Wsquid:S1197υ"8Move the array designator from the variable to the type.(ν‚Ω8ρι“‘ύ,
+W
+squid:S106"9Replace this use of System.out or System.err by a logger.(†™Ϋ8ρι“‘ύ,
+usquid:S1450ξ"VRemove the "zzState" field and declare it as a local variable in the relevant methods.(±ηομ8ρι“‘ύ,
+Lsquid:S1199«"-Extract this nested code block into a method.(¨γΗΗ8ρι“‘ύ,
+Lsquid:S1199†"-Extract this nested code block into a method.(³ν»8ρι“‘ύ,
+Lsquid:S1068™"-Remove this unused "zzEOFDone" private field.(ΐκΆτ8ρι“‘ύ,
+Vsquid:S1197%"8Move the array designator from the variable to the type.(ΉπΑ8ρι“‘ύ,
+\
+squid:S106ϋ"9Replace this use of System.out or System.err by a logger.(±ψυτωÿÿÿÿ8ρι“‘ύ,
+Qsquid:S1199’"-Extract this nested code block into a method.(Β¥ΊΈωÿÿÿÿ8ρι“‘ύ,
+|squid:S4144Ò"^Update this method so that its implementation is not identical to "zzUnpackAction" on line 75.(ª’Ό)8ρι“‘ύ,
+\
+squid:S106΅"9Replace this use of System.out or System.err by a logger.(ώ«΄£ύÿÿÿÿ8ρι“‘ύ,
+Qsquid:S1199"-Extract this nested code block into a method.(ÿΎΧώÿÿÿÿ8ρι“‘ύ,
+W
+squid:S106—"9Replace this use of System.out or System.err by a logger.(ÿύψ8ρι“‘ύ,
+o squid:LabelsShouldNotBeUsedCheck΄";Refactor the code to remove this label and the need for it.(ώέτ8ρι“‘ύ,
+Wsquid:S1197η"8Move the array designator from the variable to the type.(„ξ…Υ8ρι“‘ύ,
+Qsquid:S1199κ"-Extract this nested code block into a method.(Η§†ϊÿÿÿÿ8ρι“‘ύ,
+Qsquid:S1199΅"-Extract this nested code block into a method.(ώ«΄£ύÿÿÿÿ8ρι“‘ύ,
+\
+squid:S106"9Replace this use of System.out or System.err by a logger.(£Κ©ÿÿÿÿÿ8ρι“‘ύ,
+\
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿΎΧώÿÿÿÿ8ρι“‘ύ,
+Osquid:S1068“"+Remove this unused "zzAtBOL" private field.(α±ώ²ÿÿÿÿÿ8ρι“‘ύ,
+\
+squid:S106ρ"9Replace this use of System.out or System.err by a logger.(πώΊΦωÿÿÿÿ8ρι“‘ύ,
+W
+squid:S106¦"9Replace this use of System.out or System.err by a logger.(Ύν¤Ω8ρι“‘ύ,
+esquid:S00112ϊ"FDefine and throw a dedicated exception instead of using a generic one.(γήέ8ρι“‘ύ,
+Xsquid:S1854l":Remove this useless assignment to local variable "offset".(΅χΓ¨8ρι“‘ύ,
+\
+squid:S106°"9Replace this use of System.out or System.err by a logger.(ί€”Μύÿÿÿÿ8ρι“‘ύ,
+}squid:S1171ΰ"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒΜβ–ψÿÿÿÿ8ρι“‘ύ,
+Isquid:S1068…"*Remove this unused "yyline" private field.(²„Κι8ρι“‘ύ,
+Qsquid:S1199φ"-Extract this nested code block into a method.(ΈθΚΐύÿÿÿÿ8ρι“‘ύ,
+Gsquid:S1148δ"#Use a logger to log this exception.(€ΙΤ…ύÿÿÿÿ8ρι“‘ύ,
+wsquid:S1450™"XRemove the "zzEOFDone" field and declare it as a local variable in the relevant methods.(ΐκΆτ8ρι“‘ύ,
+Msquid:S1066ό"/Merge this if statement with the enclosing one.(όξG8ρι“‘ύ,
+zsquid:S1450“"VRemove the "zzAtBOL" field and declare it as a local variable in the relevant methods.(α±ώ²ÿÿÿÿÿ8ρι“‘ύ,
+Lsquid:S1199¦"-Extract this nested code block into a method.(Ύν¤Ω8ρι“‘ύ,
+|
+squid:S135µ"YReduce the total number of break and continue statements in this loop to use at most one.(οÿÿÿÿÿ8ρι“‘ύ,
+tsquid:S1450"URemove the "yychar" field and declare it as a local variable in the relevant methods.(θτκ8ρι“‘ύ,
+Ysquid:S1854£":Remove this useless assignment to local variable "offset".(ζ¤Ε8ρι“‘ύ,
+tsquid:S1450…"URemove the "yyline" field and declare it as a local variable in the relevant methods.(²„Κι8ρι“‘ύ,
+{squid:S1450"WRemove the "yycolumn" field and declare it as a local variable in the relevant methods.(ύ®Θόÿÿÿÿ8ρι“‘ύ,
+\
+squid:S106φ"9Replace this use of System.out or System.err by a logger.(ΈθΚΐύÿÿÿÿ8ρι“‘ύ,
+\
+squid:S106’"9Replace this use of System.out or System.err by a logger.(Β¥ΊΈωÿÿÿÿ8ρι“‘ύ,
+Qsquid:S1199ρ"-Extract this nested code block into a method.(πώΊΦωÿÿÿÿ8ρι“‘ύ,
+^squid:S1854Ξ":Remove this useless assignment to local variable "offset".(΅ν¶ωÿÿÿÿ8ρι“‘ύ,
+\
+squid:S106λ"9Replace this use of System.out or System.err by a logger.(ψω•©ÿÿÿÿÿ8ρι“‘ύ,
+qsquid:S3776•"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(²νά8ρι“‘ύ,
+Lsquid:S1199"-Extract this nested code block into a method.(†™Ϋ8ρι“‘ύ,
+W
+squid:S106‡"9Replace this use of System.out or System.err by a logger.(ζΝ›ή8ρι“‘ύ,
+Qsquid:S1199ϋ"-Extract this nested code block into a method.(±ψυτωÿÿÿÿ8ρι“‘ύ,
+Lsquid:S1199—"-Extract this nested code block into a method.(ÿύψ8ρι“‘ύ,
+W
+squid:S106«"9Replace this use of System.out or System.err by a logger.(¨γΗΗ8ρι“‘ύ,
+Xsquid:S1854G":Remove this useless assignment to local variable "offset".(ςΓ™8ρι“‘ύ,
+\squid:S1197»"8Move the array designator from the variable to the type.(µ»ΓΛÿÿÿÿÿ8ρι“‘ύ,
+Qsquid:S1199°"-Extract this nested code block into a method.(ί€”Μύÿÿÿÿ8ρι“‘ύ,

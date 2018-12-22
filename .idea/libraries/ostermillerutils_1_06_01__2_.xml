@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="ostermillerutils_1_06_01 (2)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Yacc/lib/ostermillerutils_1_06_01.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/Yacc/lib/ostermillerutils_1_06_01.jar!/" />
+    </SOURCES>
+  </library>
+</component>
