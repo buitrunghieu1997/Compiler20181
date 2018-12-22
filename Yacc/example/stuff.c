@@ -1,9 +1,9 @@
-int ham1( int a );
-
-int ham2(int a) {
-    return a;
+int main() {
+int a = 3;
+do{
+a=3;
+b=4;
+}while(a=>3);
 }
 
-if(a > b) {
-    b = a;
-}
+int create(int a,float b);

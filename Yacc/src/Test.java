@@ -22,7 +22,7 @@ public class Test {
         else
           parse_tree = parser_obj.parse();
       } catch (Exception e) {
-        /* do cleanup here - - possibly rethrow e */
+        e.printStackTrace();
       } finally {
 	/* do close out here */
       }

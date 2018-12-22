@@ -1,4 +1,7 @@
+package yacc;
 import java_cup.runtime.*;
+import handler.HandleFlow;
+
 
 // set up và sử dụng scanner
 init with {: Myscanner.init(); :}
@@ -20,16 +23,16 @@ non terminal java.lang.String variable_nt, condition, comparator_nt;
 
 // GRAMAR
 
-// có thể khai boá prototype của hàm hoặc định nghĩa luôn hàm
+//// có thể khai boá prototype của hàm hoặc định nghĩa luôn hàm =========================> Conflict 1
 cprogram ::= cprogram function_def | cprogram function | ;
-// vd: int Test(int a, int b) {...}
+// vd: int Test(int a,int b) {...}
 function ::= return_type variable_nt:function_name LEFTPARAN argument_list RIGHTPARAN globalblock
              {:
                 if(FileStuff.isDebugMode()) System.out.println("Function def: " + function_name);
                 HandleFlow.insertNode(function_name + "#", "parent");
              :};
-// vd: int Test(int am int b)
-function_def ::= variable_nt variable_nt:function_name LEFTPARAN argument_list RIGHTPARAN globalblock
+// vd: int Test(int a,int b);
+function_def ::= return_type variable_nt:function_name LEFTPARAN argument_list RIGHTPARAN SEMI
              {:
                 if(FileStuff.isDebugMode()) System.out.println("Function def: " + function_name);
                 HandleFlow.insertNode(function_name + "#", "parentdef");
@@ -46,7 +49,7 @@ inlinefunction ::= return_type variable_nt:function_name LEFTPARAN argument_list
 return_type ::= RETURNTYPE:t
              {: if(FileStuff.isDebugMode()) System.out.println("Return " + t); :}
              | // kkông trả về gì (void)
-             {: if(FileStuff.isDebugMode()) System.out.println("Empty return " + t); :};
+             {: if(FileStuff.isDebugMode()) System.out.println("Empty return type."); :};
 // có thể có 1 nhiều hoặc không có thuộc tính
 argument_list ::= argument_list COMMA argument
              {: if(FileStuff.isDebugMode()) System.out.println("Multiple argument"); :}
@@ -84,7 +87,7 @@ statement ::= function_call:fc //print(a)
              {: System.out.println("Do while statement reached"); :}
              | inlinefunction
              {: if(FileStuff.isDebugMode()) System.out.println("Inline function reached"); :};
-
+//
 ifstatement ::= IF condition:con globalblock elsestmt
              {:
                 System.out.println("If condition is: " + con);
@@ -95,7 +98,7 @@ ifstatement ::= IF condition:con globalblock elsestmt
 	            System.out.println("If condition is: " + con);
 	            HandleFlow.insertNode("ifstmt " + con + " ", "function");
              :};
-
+//
 condition ::= LEFTPARAN variable_nt:e1 EQUALS variable_nt:e2 RIGHTPARAN //x == y
              {:
                 RESULT = e1 + "==" + e2;
@@ -139,32 +142,32 @@ elsestmt ::= ELSE globalblock
 whilestatement ::= WHILE condition:con globalblock
              {:    System.out.println("While condition is: " + con); :};
 
-function_call ::= variable_nt EQUALS variable_nt:e LEFTPARAN argument_list RIGHTPARAN SEMI // x = print(a,b);
-             {:
-                System.out.println("Function call: " = e);
-                RESULT = e;
-                HandleFlow.insertNode(e, "function");
-             :}
-             | variable_nt:e LEFTPARAN argument_list RIGHTPARAN SEMI // print(a, b);
-             {:
-	            System.out.println("Function call: " = e);
-	            RESULT = e;
-	            HandleFlow.insertNode(e, "function");
-             :}
-             // check again the {: :} to remove or not
-             | variable_nt:e LEFTPARAN function_call_no_semi RIGHTPARAN SEMI //print(getValue(b))
-             {:
-                System.out.println("Function call: " = e);
-                RESULT = e;
-                HandleFlow.insertNode(e, "function");
-             :};
-
-function_call_no_semi ::= variable_nt:e LEFTPARAN argument_list RIGHTPARAN // do(int a, int b)
-             {:
-                System.out.println("Function call: " = e);
-                RESULT = e;
-                HandleFlow.insertNode(e, "function");
-             :};
+//function_call ::= variable_nt EQUALS variable_nt:e LEFTPARAN argument_list RIGHTPARAN SEMI // x = print(a,b);
+//             {:
+//                System.out.println("Function call: " = e);
+//                RESULT = e;
+//                HandleFlow.insertNode(e, "function");
+//             :}
+//             | variable_nt:e LEFTPARAN argument_list RIGHTPARAN SEMI // print(a, b);
+//             {:
+//	            System.out.println("Function call: " = e);
+//	            RESULT = e;
+//	            HandleFlow.insertNode(e, "function");
+//             :}
+////              check again the {: :} to remove or not
+//             | variable_nt:e LEFTPARAN function_call_no_semi RIGHTPARAN SEMI //print(getValue(b))
+//             {:
+//                System.out.println("Function call: " = e);
+//                RESULT = e;
+//                HandleFlow.insertNode(e, "function");
+//             :};
+//
+//function_call_no_semi ::= variable_nt:e LEFTPARAN argument_list RIGHTPARAN // do(int a, int b)
+//             {:
+//                System.out.println("Function call: " = e);
+//                RESULT = e;
+//                HandleFlow.insertNode(e, "function");
+//             :};
 
 dowhilestatement ::= DO globalblock WHILE LEFTPARAN condition:con RIGHTPARAN SEMI
              {:    System.out.println("DoWhile condition is: " + con); :};

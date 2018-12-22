@@ -1,30 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/Yacc/src/yacc/parser.cup" description="statement_list ::= statement_list statement" line="87" />
+    <bookmark url="file://$PROJECT_DIR$/Yacc/src/yacc/parser.cup" description="statement_list ::= statement_list statement" line="90" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06028e6c-c0f2-4c01-919c-9a8f7c0461f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/java_cup.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/ostermillerutils_1_06_01__2_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yacc/example/stuff.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yacc/lib/java-cup-11b-runtime.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yacc/lib/java-cup-11b.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yacc/src/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yacc/src/Testing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yacc/src/grammar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yacc/src/handler/GraphNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yacc/src/handler/HandleFlow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yacc/src/handler/ParentFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yacc/src/notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yacc/src/yacc/FileStuff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yacc/src/yacc/Myscanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yacc/src/yacc/java-cup-11b-runtime.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yacc/src/yacc/java-cup-11b.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yacc/src/yacc/parser.cup" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yacc/Yacc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Yacc/Yacc.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lex/example/program.in" beforeDir="false" afterPath="$PROJECT_DIR$/Lex/example/program.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lex/example/program.out" beforeDir="false" afterPath="$PROJECT_DIR$/Lex/example/program.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yacc/example/stuff.c" beforeDir="false" afterPath="$PROJECT_DIR$/Yacc/example/stuff.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yacc/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Yacc/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yacc/src/yacc/parser.cup" beforeDir="false" afterPath="$PROJECT_DIR$/Yacc/src/yacc/parser.cup" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yacc/src/yacc/parser.java" beforeDir="false" afterPath="$PROJECT_DIR$/Yacc/src/yacc/parser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yacc/src/yacc/sym.java" beforeDir="false" afterPath="$PROJECT_DIR$/Yacc/src/yacc/sym.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Yacc/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Yacc/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Yacc/yacc/parser$CUP$parser$actions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Yacc/yacc/parser$CUP$parser$actions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Yacc/yacc/parser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Yacc/yacc/parser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Yacc/yacc/parser.cup" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Yacc/yacc/parser.cup" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Yacc/yacc/sym.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Yacc/yacc/sym.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -73,11 +66,11 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C++" value="3" />
+          <entry key="C++" value="4" />
           <entry key="Cup file" value="2" />
-          <entry key="JAVA" value="118" />
+          <entry key="JAVA" value="120" />
           <entry key="JFlex" value="6" />
-          <entry key="PLAIN_TEXT" value="20" />
+          <entry key="PLAIN_TEXT" value="22" />
           <entry key="ProGuard File" value="17" />
           <entry key="XML" value="3" />
         </counts>
@@ -92,11 +85,11 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C++" value="377" />
-          <entry key="Cup file" value="3386" />
-          <entry key="JAVA" value="16604" />
+          <entry key="C++" value="488" />
+          <entry key="Cup file" value="3504" />
+          <entry key="JAVA" value="16614" />
           <entry key="JFlex" value="2725" />
-          <entry key="PLAIN_TEXT" value="1170" />
+          <entry key="PLAIN_TEXT" value="1202" />
           <entry key="ProGuard File" value="484" />
           <entry key="XML" value="6" />
         </counts>
@@ -108,10 +101,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Yacc/src/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+            <state relative-caret-position="220">
+              <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#213#261#1" expanded="true" />
                 <element signature="e#309#334#1" expanded="true" />
                 <element signature="e#352#375#0" expanded="true" />
               </folding>
@@ -120,18 +114,139 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lex/example/program.in">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lex/src/App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="34" column="28" lean-forward="true" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#832#915#0" expanded="true" />
+                <element signature="e#832#915#0" expanded="true" />
+                <element signature="e#832#915#0" expanded="true" />
+                <element signature="e#832#915#0" expanded="true" />
+                <element signature="e#832#915#0" expanded="true" />
+                <element signature="e#832#915#0" expanded="true" />
+                <element signature="e#923#955#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lex/example/program.out">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-138">
+              <caret line="33" column="3" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Yacc/src/yacc/parser.cup">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="6" column="48" lean-forward="true" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
+            <state relative-caret-position="-1329">
+              <caret line="77" column="5" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
+              <folding>
+                <element signature="e#55#67#0" expanded="true" />
+                <element signature="e#67#90#0" expanded="true" />
+                <element signature="e#111#143#0" expanded="true" />
+                <element signature="e#184#203#0" expanded="true" />
+                <element signature="e#67#90#0" expanded="true" />
+                <element signature="e#111#143#0" expanded="true" />
+                <element signature="e#184#203#0" expanded="true" />
+                <element signature="e#67#90#0" expanded="true" />
+                <element signature="e#111#143#0" expanded="true" />
+                <element signature="e#184#203#0" expanded="true" />
+                <element signature="e#51#74#0" expanded="true" />
+                <element signature="e#95#108#0" expanded="true" />
+                <element signature="e#51#74#0" expanded="true" />
+                <element signature="e#51#74#0" expanded="true" />
+                <element signature="e#51#74#0" expanded="true" />
+                <element signature="e#51#74#0" expanded="true" />
+                <element signature="e#51#74#0" expanded="true" />
+                <element signature="e#51#74#0" expanded="true" />
+                <element signature="e#51#74#0" expanded="true" />
+                <element signature="e#51#74#0" expanded="true" />
+                <element signature="e#51#74#0" expanded="true" />
+                <element signature="e#51#74#0" expanded="true" />
+                <element signature="e#95#112#0" expanded="true" />
+                <element signature="e#51#74#0" expanded="true" />
+                <element signature="e#51#74#0" expanded="true" />
+                <element signature="e#51#74#0" expanded="true" />
+                <element signature="e#51#74#0" expanded="true" />
+                <element signature="e#83#108#0" expanded="true" />
+                <element signature="e#149#170#0" expanded="true" />
+                <element signature="e#149#170#0" expanded="true" />
+                <element signature="e#80#105#0" expanded="true" />
+                <element signature="e#143#164#0" expanded="true" />
+                <element signature="e#143#164#0" expanded="true" />
+                <element signature="e#73#87#0" expanded="true" />
+                <element signature="e#73#87#0" expanded="true" />
+                <element signature="e#108#131#0" expanded="true" />
+                <element signature="e#152#182#0" expanded="true" />
+                <element signature="e#152#182#0" expanded="true" />
+                <element signature="e#152#182#0" expanded="true" />
+                <element signature="e#73#86#0" expanded="true" />
+                <element signature="e#73#86#0" expanded="true" />
+                <element signature="e#107#130#0" expanded="true" />
+                <element signature="e#151#180#0" expanded="true" />
+                <element signature="e#151#180#0" expanded="true" />
+                <element signature="e#151#180#0" expanded="true" />
+                <element signature="e#73#86#0" expanded="true" />
+                <element signature="e#73#86#0" expanded="true" />
+                <element signature="e#107#130#0" expanded="true" />
+                <element signature="e#151#180#0" expanded="true" />
+                <element signature="e#151#180#0" expanded="true" />
+                <element signature="e#151#180#0" expanded="true" />
+                <element signature="e#73#87#0" expanded="true" />
+                <element signature="e#73#87#0" expanded="true" />
+                <element signature="e#108#131#0" expanded="true" />
+                <element signature="e#152#182#0" expanded="true" />
+                <element signature="e#152#182#0" expanded="true" />
+                <element signature="e#152#182#0" expanded="true" />
+                <element signature="e#73#87#0" expanded="true" />
+                <element signature="e#73#87#0" expanded="true" />
+                <element signature="e#108#131#0" expanded="true" />
+                <element signature="e#152#182#0" expanded="true" />
+                <element signature="e#152#182#0" expanded="true" />
+                <element signature="e#152#182#0" expanded="true" />
+                <element signature="e#73#87#0" expanded="true" />
+                <element signature="e#73#87#0" expanded="true" />
+                <element signature="e#108#131#0" expanded="true" />
+                <element signature="e#152#182#0" expanded="true" />
+                <element signature="e#152#182#0" expanded="true" />
+                <element signature="e#152#182#0" expanded="true" />
+                <element signature="e#70#98#0" expanded="true" />
+                <element signature="e#70#100#0" expanded="true" />
+                <element signature="e#57#83#0" expanded="true" />
+                <element signature="e#57#83#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Yacc/example/stuff.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lex/src/lexial/lexer.flex">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2300">
+            <state relative-caret-position="2001">
               <caret line="102" column="33" selection-start-line="102" selection-start-column="33" selection-end-line="102" selection-end-column="33" />
             </state>
           </provider>
@@ -140,8 +255,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Yacc/src/yacc/Myscanner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="119" column="49" selection-start-line="119" selection-start-column="26" selection-end-line="119" selection-end-column="49" />
+            <state relative-caret-position="108">
+              <caret line="70" column="46" lean-forward="true" selection-start-line="70" selection-start-column="46" selection-end-line="70" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#2606#4185#0" expanded="true" />
@@ -152,6 +267,8 @@
                 <element signature="e#2716#4185#0" expanded="true" />
                 <element signature="e#2844#4185#0" expanded="true" />
                 <element signature="e#2844#4185#0" expanded="true" />
+                <element signature="e#4379#4380#0" expanded="true" />
+                <element signature="e#4405#4406#0" expanded="true" />
                 <element signature="e#4870#4871#0" expanded="true" />
                 <element signature="e#4908#4909#0" expanded="true" />
                 <element signature="e#4955#4956#0" expanded="true" />
@@ -174,11 +291,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Yacc/src/yacc/parser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6">
-              <caret line="196" column="3" lean-forward="true" selection-start-line="196" selection-start-column="3" selection-end-line="196" selection-end-column="3" />
+            <state relative-caret-position="115">
+              <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#0#37601#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Yacc/src/yacc/sym.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -265,7 +391,6 @@
         <option value="$PROJECT_DIR$/Lex/src/lexial/lexer.flex" />
         <option value="$PROJECT_DIR$/Lex/code.bak" />
         <option value="$PROJECT_DIR$/Lex/src/lexial/Sentence.java" />
-        <option value="$PROJECT_DIR$/Lex/example/program.in" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/Yacc/src/Helper/Helper.java" />
         <option value="$PROJECT_DIR$/Yacc/src/helper/Helper.java" />
@@ -273,12 +398,13 @@
         <option value="$PROJECT_DIR$/Yacc/src/myscanner.java" />
         <option value="$PROJECT_DIR$/Yacc/src/FileStuff.java" />
         <option value="$PROJECT_DIR$/Yacc/src/Myscanner.java" />
-        <option value="$PROJECT_DIR$/Yacc/src/yacc/parser.java" />
-        <option value="$PROJECT_DIR$/Yacc/src/Test.java" />
         <option value="$PROJECT_DIR$/Yacc/example/hello.c" />
-        <option value="$PROJECT_DIR$/Yacc/src/yacc/sym.java" />
         <option value="$PROJECT_DIR$/Yacc/src/yacc/Myscanner.java" />
         <option value="$PROJECT_DIR$/Yacc/src/yacc/FileStuff.java" />
+        <option value="$PROJECT_DIR$/Yacc/src/Test.java" />
+        <option value="$PROJECT_DIR$/Lex/example/program.in" />
+        <option value="$PROJECT_DIR$/Yacc/src/yacc/sym.java" />
+        <option value="$PROJECT_DIR$/Yacc/src/yacc/parser.java" />
         <option value="$PROJECT_DIR$/Yacc/src/yacc/parser.cup" />
         <option value="$PROJECT_DIR$/Yacc/example/stuff.c" />
       </list>
@@ -334,30 +460,6 @@
             <path>
               <item name="ProgramLanguageCompiler" type="b2602c69:ProjectViewProjectNode" />
               <item name="ProgramLanguageCompiler" type="462c0819:PsiDirectoryNode" />
-              <item name="Lex" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProgramLanguageCompiler" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProgramLanguageCompiler" type="462c0819:PsiDirectoryNode" />
-              <item name="Lex" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProgramLanguageCompiler" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProgramLanguageCompiler" type="462c0819:PsiDirectoryNode" />
-              <item name="Lex" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProgramLanguageCompiler" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProgramLanguageCompiler" type="462c0819:PsiDirectoryNode" />
-              <item name="Lex" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lexial" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProgramLanguageCompiler" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProgramLanguageCompiler" type="462c0819:PsiDirectoryNode" />
               <item name="Yacc" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -389,7 +491,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545463847513" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545470472165" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -515,8 +617,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.App (2)" />
         <item itemvalue="Application.App (1)" />
+        <item itemvalue="Application.App (2)" />
         <item itemvalue="Application.App" />
         <item itemvalue="Application.Compiler" />
       </list>
@@ -546,18 +648,18 @@
       <workItem from="1543550135197" duration="863000" />
       <workItem from="1545350854149" duration="25590000" />
       <workItem from="1545404473892" duration="13931000" />
-      <workItem from="1545444453475" duration="14366000" />
+      <workItem from="1545444453475" duration="20815000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90400000" />
+    <option name="totallyTimeSpent" value="96849000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18849356" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18849356" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Project Explorer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -572,7 +674,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848714" weight="0.63993454" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.7086743" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -1078,13 +1180,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Yacc/src/yacc/sym.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Yacc/src/handler/GraphNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
@@ -1201,63 +1296,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lex/example/program.in">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lex/src/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="34" column="28" lean-forward="true" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#832#915#0" expanded="true" />
-            <element signature="e#832#915#0" expanded="true" />
-            <element signature="e#832#915#0" expanded="true" />
-            <element signature="e#832#915#0" expanded="true" />
-            <element signature="e#832#915#0" expanded="true" />
-            <element signature="e#832#915#0" expanded="true" />
-            <element signature="e#923#955#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lex/example/program.out">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1709">
-          <caret column="5" selection-start-column="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Yacc/src/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        <state relative-caret-position="220">
+          <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#213#261#1" expanded="true" />
             <element signature="e#309#334#1" expanded="true" />
             <element signature="e#352#375#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Lex/example/program.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lex/example/program.out">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-138">
+          <caret line="33" column="3" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Yacc/src/yacc/sym.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lex/src/lexial/lexer.flex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2001">
+          <caret line="102" column="33" selection-start-line="102" selection-start-column="33" selection-end-line="102" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Yacc/src/yacc/parser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6">
-          <caret line="196" column="3" lean-forward="true" selection-start-line="196" selection-start-column="3" selection-end-line="196" selection-end-column="3" />
+        <state relative-caret-position="115">
+          <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#0#37601#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Yacc/src/yacc/Myscanner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="119" column="49" selection-start-line="119" selection-start-column="26" selection-end-line="119" selection-end-column="49" />
+        <state relative-caret-position="108">
+          <caret line="70" column="46" lean-forward="true" selection-start-line="70" selection-start-column="46" selection-end-line="70" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#2606#4185#0" expanded="true" />
@@ -1268,6 +1361,8 @@
             <element signature="e#2716#4185#0" expanded="true" />
             <element signature="e#2844#4185#0" expanded="true" />
             <element signature="e#2844#4185#0" expanded="true" />
+            <element signature="e#4379#4380#0" expanded="true" />
+            <element signature="e#4405#4406#0" expanded="true" />
             <element signature="e#4870#4871#0" expanded="true" />
             <element signature="e#4908#4909#0" expanded="true" />
             <element signature="e#4955#4956#0" expanded="true" />
@@ -1286,24 +1381,109 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Yacc/example/stuff.c">
+    <entry file="file://$PROJECT_DIR$/Lex/src/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="10" selection-start-column="10" selection-end-column="10" />
+        <state relative-caret-position="266">
+          <caret line="34" column="28" lean-forward="true" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#832#915#0" expanded="true" />
+            <element signature="e#832#915#0" expanded="true" />
+            <element signature="e#832#915#0" expanded="true" />
+            <element signature="e#832#915#0" expanded="true" />
+            <element signature="e#832#915#0" expanded="true" />
+            <element signature="e#832#915#0" expanded="true" />
+            <element signature="e#923#955#1" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Yacc/src/yacc/parser.cup">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="48" lean-forward="true" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
+        <state relative-caret-position="-1329">
+          <caret line="77" column="5" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
+          <folding>
+            <element signature="e#55#67#0" expanded="true" />
+            <element signature="e#67#90#0" expanded="true" />
+            <element signature="e#111#143#0" expanded="true" />
+            <element signature="e#184#203#0" expanded="true" />
+            <element signature="e#67#90#0" expanded="true" />
+            <element signature="e#111#143#0" expanded="true" />
+            <element signature="e#184#203#0" expanded="true" />
+            <element signature="e#67#90#0" expanded="true" />
+            <element signature="e#111#143#0" expanded="true" />
+            <element signature="e#184#203#0" expanded="true" />
+            <element signature="e#51#74#0" expanded="true" />
+            <element signature="e#95#108#0" expanded="true" />
+            <element signature="e#51#74#0" expanded="true" />
+            <element signature="e#51#74#0" expanded="true" />
+            <element signature="e#51#74#0" expanded="true" />
+            <element signature="e#51#74#0" expanded="true" />
+            <element signature="e#51#74#0" expanded="true" />
+            <element signature="e#51#74#0" expanded="true" />
+            <element signature="e#51#74#0" expanded="true" />
+            <element signature="e#51#74#0" expanded="true" />
+            <element signature="e#51#74#0" expanded="true" />
+            <element signature="e#51#74#0" expanded="true" />
+            <element signature="e#95#112#0" expanded="true" />
+            <element signature="e#51#74#0" expanded="true" />
+            <element signature="e#51#74#0" expanded="true" />
+            <element signature="e#51#74#0" expanded="true" />
+            <element signature="e#51#74#0" expanded="true" />
+            <element signature="e#83#108#0" expanded="true" />
+            <element signature="e#149#170#0" expanded="true" />
+            <element signature="e#149#170#0" expanded="true" />
+            <element signature="e#80#105#0" expanded="true" />
+            <element signature="e#143#164#0" expanded="true" />
+            <element signature="e#143#164#0" expanded="true" />
+            <element signature="e#73#87#0" expanded="true" />
+            <element signature="e#73#87#0" expanded="true" />
+            <element signature="e#108#131#0" expanded="true" />
+            <element signature="e#152#182#0" expanded="true" />
+            <element signature="e#152#182#0" expanded="true" />
+            <element signature="e#152#182#0" expanded="true" />
+            <element signature="e#73#86#0" expanded="true" />
+            <element signature="e#73#86#0" expanded="true" />
+            <element signature="e#107#130#0" expanded="true" />
+            <element signature="e#151#180#0" expanded="true" />
+            <element signature="e#151#180#0" expanded="true" />
+            <element signature="e#151#180#0" expanded="true" />
+            <element signature="e#73#86#0" expanded="true" />
+            <element signature="e#73#86#0" expanded="true" />
+            <element signature="e#107#130#0" expanded="true" />
+            <element signature="e#151#180#0" expanded="true" />
+            <element signature="e#151#180#0" expanded="true" />
+            <element signature="e#151#180#0" expanded="true" />
+            <element signature="e#73#87#0" expanded="true" />
+            <element signature="e#73#87#0" expanded="true" />
+            <element signature="e#108#131#0" expanded="true" />
+            <element signature="e#152#182#0" expanded="true" />
+            <element signature="e#152#182#0" expanded="true" />
+            <element signature="e#152#182#0" expanded="true" />
+            <element signature="e#73#87#0" expanded="true" />
+            <element signature="e#73#87#0" expanded="true" />
+            <element signature="e#108#131#0" expanded="true" />
+            <element signature="e#152#182#0" expanded="true" />
+            <element signature="e#152#182#0" expanded="true" />
+            <element signature="e#152#182#0" expanded="true" />
+            <element signature="e#73#87#0" expanded="true" />
+            <element signature="e#73#87#0" expanded="true" />
+            <element signature="e#108#131#0" expanded="true" />
+            <element signature="e#152#182#0" expanded="true" />
+            <element signature="e#152#182#0" expanded="true" />
+            <element signature="e#152#182#0" expanded="true" />
+            <element signature="e#70#98#0" expanded="true" />
+            <element signature="e#70#100#0" expanded="true" />
+            <element signature="e#57#83#0" expanded="true" />
+            <element signature="e#57#83#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lex/src/lexial/lexer.flex">
+    <entry file="file://$PROJECT_DIR$/Yacc/example/stuff.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2300">
-          <caret line="102" column="33" selection-start-line="102" selection-start-column="33" selection-end-line="102" selection-end-column="33" />
+        <state relative-caret-position="115">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
         </state>
       </provider>
     </entry>
