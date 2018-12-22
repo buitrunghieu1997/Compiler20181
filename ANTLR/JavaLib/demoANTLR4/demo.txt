@@ -1,0 +1,11 @@
+int a;
+int b;
+a = 3;
+b = a + 1;
+if (b == 4) a = 2; endif
+if (a == 3)  
+    a = a + 1; 
+    b = b + 6;
+endif 
+print a;
+print b;
